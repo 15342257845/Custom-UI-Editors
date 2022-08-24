@@ -1,0 +1,48 @@
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\vsfile\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\zhoucheng\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\CustomUI\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\admin\Documents\CustomUI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\admin\Documents\CustomUI\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Ionic.Zlib.dll
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ManagedSquish.dll
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NativeSquish_x86.dll
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NativeSquish_x64.dll
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ManagedSquish.pdb
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ManagedSquish.xml
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NativeSquish_x86.pdb
+C:\Users\admin\Desktop\新建文件夹 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NativeSquish_x64.pdb
