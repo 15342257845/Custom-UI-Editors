@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node ID="1" nodename="login" nodecaption="启动logo" iconpath="" imgfile="0B3D609606A0474FAA958CEFF04A131A.PNG" beginimg="360" endimg="" x="91" y="101" ishide="-1" width="800" height="600">
+  </Node>
+  <Node ID="2" nodename="loginBack" nodecaption="启动背景框" iconpath="Data\Prguse.wzl" beginimg="755" endimg="" x="22" y="24" ishide="0" width="800" height="600">
+    <Node ID="2_1" nodename="loginBackOpenDoor" nodecaption="启动背景框开门动画" iconpath="Data\chrsel.wzl" beginimg="22" endimg="32" imgspeed="230" x="-1" y="-2" ishide="0" width="800" height="600">
+    </Node>
+  </Node>
+  <Node ID="3" nodename="DMsgDlg" nodecaption="多用途信息框" iconpath="Data\Prguse.wzl" beginimg="360" endimg="" x="286" y="294" ishide="-1" width="400" height="200">
+    <Node ID="3_1" nodename="DMsgDlgOk" nodecaption="Ok" iconpath="Data\Prguse.wzl" beginimg="361" endimg="" x="206" y="126" ishide="-1" width="80" height="34">
+    </Node>
+    <Node ID="3_2" nodename="DMsgDlgYes" nodecaption="Yes" iconpath="Data\Prguse.wzl" beginimg="363" endimg="" x="16" y="126" ishide="-1" width="80" height="34">
+    </Node>
+    <Node ID="3_3" nodename="DMsgDlgCancel" nodecaption="Cancel" iconpath="Data\Prguse.wzl" beginimg="365" endimg="" x="301" y="126" ishide="-1" width="80" height="34">
+    </Node>
+    <Node ID="3_4" nodename="DMsgDlgNo" nodecaption="No" iconpath="Data\Prguse.wzl" beginimg="367" endimg="" x="112" y="126" ishide="-1" width="80" height="34">
+    </Node>
+  </Node>
+  <Node ID="4" nodename="DLogIn" nodecaption="登录框" iconpath="Data\Prguse3.wzl" beginimg="18" endimg="" x="357" y="214" ishide="-1" width="300" height="350">
+    <Node ID="4_1" nodename="DLoginNew" nodecaption="用户注册" iconpath="Data\Prguse.wzl" beginimg="61" endimg="" x="29" y="206" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_2" nodename="DLoginOk" nodecaption="提交" iconpath="Data\Prguse3.wzl" beginimg="10" endimg="" x="30" y="262" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_3" nodename="DMobileLogin" nodecaption="手机登录" iconpath="" beginimg="0" endimg="" x="161" y="207" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_4" nodename="DLoginChgPw" nodecaption="修改密码" iconpath="Data\Prguse3.wzl" beginimg="28" endimg="" x="162" y="263" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_5" nodename="DBandMobile" nodecaption="绑定手机" iconpath="" beginimg="0" endimg="" x="29" y="154" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_6" nodename="DFindPWD" nodecaption="找回密码" iconpath="" beginimg="0" endimg="" x="161" y="154" ishide="0" width="100" height="40">
+    </Node>
+    <Node ID="4_7" nodename="DLoginClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="265" y="19" ishide="0" width="16" height="23">
+    </Node>
+    <Node ID="4_8" nodename="DxEditLoginID" nodecaption="用户名输入框" iconpath="" beginimg="0" endimg="" x="80" y="72" ishide="0" width="136" height="16">
+    </Node>
+    <Node ID="4_9" nodename="DxEditPassword" nodecaption="密码输入框" iconpath="" beginimg="0" endimg="" x="80" y="107" ishide="0" width="136" height="16">
+    </Node>
+  </Node>
+  <Node ID="5" nodename="DSelServerDlg" nodecaption="服务器选区" iconpath="Data\Prguse.wzl" beginimg="256" endimg="" x="358" y="158" ishide="-1" width="308" height="470">
+    <Node ID="5_1" nodename="DSSrvClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="269" y="27" ishide="0" width="16" height="23">
+    </Node>
+    <Node ID="5_2" nodename="DSServer1" nodecaption="一" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="100" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_3" nodename="DSServer2" nodecaption="二" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="145" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_4" nodename="DSServer3" nodecaption="三" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="190" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_5" nodename="DSServer4" nodecaption="四" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="235" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_6" nodename="DSServer5" nodecaption="五" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="279" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_7" nodename="DSServer6" nodecaption="六" iconpath="Data\Prguse3.wzl" beginimg="2" endimg="" x="65" y="325" ishide="-1" width="168" height="41">
+    </Node>
+    <Node ID="5_8" nodename="DEngServer1" nodecaption="自定义" iconpath="" beginimg="0" endimg="" x="62" y="390" ishide="-1" width="168" height="41">
+    </Node>
+  </Node>
+  <Node ID="6" nodename="DNewAccount" nodecaption="新用户注册框" iconpath="Data\Prguse.wzl" beginimg="50" endimg="" x="192" y="147" ishide="-1" width="640" height="473">
+    <Node ID="6_1" nodename="DNewAccountOk" nodecaption="提交" iconpath="Data\Prguse.wzl" beginimg="62" endimg="" x="158" y="416" ishide="0" width="76" height="33">
+    </Node>
+    <Node ID="6_2" nodename="DNewAccountCancel" nodecaption="取消" iconpath="Data\Prguse.wzl" beginimg="52" endimg="" x="446" y="419" ishide="0" width="96" height="33">
+    </Node>
+    <Node ID="6_3" nodename="DNewAccountMsg" nodecaption="短信注册" iconpath="" beginimg="0" endimg="" x="160" y="61" ishide="0" width="31" height="21">
+    </Node>
+    <Node ID="6_4" nodename="DNewAccountSend" nodecaption="提交" iconpath="" beginimg="0" endimg="" x="197" y="61" ishide="0" width="31" height="21">
+    </Node>
+    <Node ID="6_5" nodename="DNewAccountClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="587" y="33" ishide="0" width="16" height="23">
+    </Node>
+    <Node ID="6_6" nodename="DNewAccountMsg" nodecaption="新建ID输入框" iconpath="" beginimg="0" endimg="" x="160" y="61" ishide="0" width="31" height="21">
+    </Node>
+    <Node ID="6_7" nodename="DNewAccountSend" nodecaption="密码输入" iconpath="" beginimg="0" endimg="" x="197" y="61" ishide="0" width="31" height="21">
+    </Node>
+    <Node ID="6_8" nodename="DNewAccountClose" nodecaption="密码确认" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="587" y="33" ishide="0" width="16" height="23">
+    </Node>
+  </Node>
+  <Node ID="7" nodename="DChgPw" nodecaption="密码修改框" iconpath="Data\Prguse.wzl" beginimg="50" endimg="" x="100" y="90" ishide="-1" width="420" height="299">
+    <Node ID="7_1" nodename="DChgpwOk" nodecaption="确定" iconpath="Data\Prguse.wzl" beginimg="81" endimg="" x="181" y="253" ishide="0" width="76" height="32">
+    </Node>
+    <Node ID="7_2" nodename="DChgpwCancel" nodecaption="取消" iconpath="Data\Prguse.wzl" beginimg="52" endimg="" x="276" y="252" ishide="0" width="96" height="33">
+    </Node>
+    <Node ID="7_3" nodename="DChgpwID" nodecaption="修改密码ID输入框" iconpath="" beginimg="52" endimg="" x="150" y="130" ishide="0" width="90" height="25">
+    </Node>
+    <Node ID="7_4" nodename="DChgpwCancel" nodecaption="新密码" iconpath="Data\Prguse.wzl" beginimg="52" endimg="" x="150" y="160" ishide="0" width="90" height="25">
+    </Node>
+    <Node ID="7_5" nodename="DChgpwCancel" nodecaption="当前密码" iconpath="Data\Prguse.wzl" beginimg="52" endimg="" x="150" y="190" ishide="0" width="90" height="25">
+    </Node>
+    <Node ID="7_6" nodename="DChgpwCancel" nodecaption="重复新密码" iconpath="Data\Prguse.wzl" beginimg="52" endimg="" x="150" y="220" ishide="0" width="90" height="25">
+    </Node>
+  </Node>
+  <Node ID="8" nodename="DSelectChr" nodecaption="选区人物框" iconpath="Data\Prguse3.wzl" beginimg="400" endimg="" x="50" y="50" ishide="0" width="1024" height="768">
+    <Node ID="8_1" nodename="DscSelect1" nodecaption="人物1选择按钮" iconpath="Data\Prguse.wzl" beginimg="66" endimg="" x="246" y="538" ishide="0" width="76" height="33">
+    </Node>
+    <Node ID="8_2" nodename="DscSelect2" nodecaption="人物2选择按钮" iconpath="Data\Prguse.wzl" beginimg="67" endimg="" x="767" y="538" ishide="0" width="76" height="33">
+    </Node>
+    <Node ID="8_3" nodename="DscStart" nodecaption="开始游戏" iconpath="" beginimg="0" endimg="" x="483" y="539" ishide="0" width="68" height="30">
+    </Node>
+    <Node ID="8_4" nodename="DscNewChr" nodecaption="创建人物" iconpath="Data\Prguse.wzl" beginimg="69" endimg="" x="460" y="570" ishide="0" width="120" height="21">
+    </Node>
+    <Node ID="8_5" nodename="DscEraseChr" nodecaption="删除人物" iconpath="Data\Prguse.wzl" beginimg="70" endimg="" x="459" y="590" ishide="0" width="120" height="21">
+    </Node>
+    <Node ID="8_6" nodename="DscCredits" nodecaption="恢复人物" iconpath="Data\Prguse3.wzl" beginimg="405" endimg="" x="458" y="611" ishide="0" width="120" height="20">
+    </Node>
+    <Node ID="8_7" nodename="DscExit" nodecaption="退出游戏" iconpath="Data\Prguse.wzl" beginimg="72" endimg="" x="491" y="631" ishide="0" width="56" height="20">
+    </Node>
+    <Node ID="8_8" nodename="DBDelCharList" nodecaption="恢复人物框" iconpath="Data\Prguse3.wzl" beginimg="406" endimg="" x="120" y="88" ishide="-1" width="300" height="417">
+      <Node ID="8_8_1" nodename="DBGetDelCharClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="247" y="30" ishide="0" width="16" height="23">
+      </Node>
+      <Node ID="8_8_2" nodename="DBGetBackDelChar" nodecaption="恢复" iconpath="Data\Prguse3.wzl" beginimg="407" endimg="" x="100" y="362" ishide="0" width="84" height="39">
+      </Node>
+      <Node ID="8_8_3" nodename="DBDelChrPrevPage" nodecaption="上页" iconpath="Data\Legm2.pak" beginimg="328" endimg="" x="54" y="356" ishide="0" width="50" height="49">
+      </Node>
+      <Node ID="8_8_4" nodename="DBDelChrNextPage" nodecaption="下页" iconpath="Data\Legm2.pak" beginimg="327" endimg="" x="180" y="356" ishide="0" width="50" height="49">
+      </Node>
+    </Node>
+    <Node ID="8_9" nodename="DCreateChr" nodecaption="创建人物窗体" iconpath="Data\Prguse.wzl" beginimg="73" endimg="" x="632" y="82" ishide="-1" width="300" height="417">
+      <Node ID="8_9_1" nodename="DxEdChrName" nodecaption="新建角色名输入框" iconpath="" beginimg="0" endimg="" x="73" y="109" ishide="0" width="135" height="15">
+      </Node>
+      <Node ID="8_9_2" nodename="DccWarrior" nodecaption="武士" iconpath="Data\Prguse.wzl" beginimg="74" endimg="" x="48" y="157" ishide="0" width="44" height="36">
+      </Node>
+      <Node ID="8_9_3" nodename="DccWizzard" nodecaption="法师" iconpath="Data\Prguse.wzl" beginimg="75" endimg="" x="93" y="157" ishide="0" width="44" height="36">
+      </Node>
+      <Node ID="8_9_4" nodename="DccMonk" nodecaption="道士" iconpath="Data\Prguse.wzl" beginimg="76" endimg="" x="138" y="157" ishide="0" width="44" height="36">
+      </Node>
+      <Node ID="8_9_5" nodename="DccMale" nodecaption="男" iconpath="Data\Prguse.wzl" beginimg="77" endimg="" x="93" y="231" ishide="0" width="44" height="35">
+      </Node>
+      <Node ID="8_9_6" nodename="DccFemale" nodecaption="女" iconpath="Data\Prguse.wzl" beginimg="78" endimg="" x="138" y="231" ishide="0" width="44" height="35">
+      </Node>
+      <Node ID="8_9_7" nodename="DccLeftHair" nodecaption="左箭头" iconpath="Data\Prguse.wzl" beginimg="79" endimg="" x="76" y="308" ishide="0" width="36" height="27">
+      </Node>
+      <Node ID="8_9_8" nodename="DccRightHair" nodecaption="右箭头" iconpath="Data\Prguse.wzl" beginimg="80" endimg="" x="170" y="308" ishide="0" width="36" height="27">
+      </Node>
+      <Node ID="8_9_9" nodename="DccOk" nodecaption="提交" iconpath="Data\Prguse.wzl" beginimg="62" endimg="" x="103" y="360" ishide="0" width="76" height="33">
+      </Node>
+      <Node ID="8_9_10" nodename="DccClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="248" y="31" ishide="0" width="16" height="23">
+      </Node>
+      <Node ID="8_9_11" nodename="DCCGetChr" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="1815" endimg="" x="198" y="100" ishide="0" width="24" height="24">
+      </Node>
+    </Node>
+    <Node ID="8_10" nodename="chr1" nodecaption="选择人物1" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="0" y="0" ishide="0" width="300" height="417">
+    </Node>
+    <Node ID="8_11" nodename="chr2" nodecaption="选择人物2" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="300" y="0" ishide="0" width="300" height="417">
+    </Node>
+    <Node ID="8_12" nodename="chrselshine" nodecaption="选择人物光柱效果" iconpath="Data\ChrSel.wzl" beginimg="4" endimg="17" x="0" y="0" ishide="0" width="300" height="417">
+    </Node>
+    <Node ID="8_13" nodename="chrmoto" nodecaption="人物动画效果" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="0" y="0" ishide="0" width="300" height="417">
+      <Node ID="8_13_1" nodename="chrmoto" nodecaption="人物动画效果(普通男战士)" iconpath="Data\ChrSel.wzl" beginimg="40" endimg="55" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_2" nodename="chrmoto" nodecaption="人物动画效果(灰色男战士)" iconpath="Data\ChrSel.wzl" beginimg="60" endimg="72" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_3" nodename="chrmoto" nodecaption="人物动画效果(普通男法师)" iconpath="Data\ChrSel.wzl" beginimg="80" endimg="95" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_4" nodename="chrmoto" nodecaption="人物动画效果(灰色男法师)" iconpath="Data\ChrSel.wzl" beginimg="100" endimg="112" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_5" imgspeed="300" nodename="chrmoto" nodecaption="人物动画效果(普通男道士)" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="135" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_6" nodename="chrmoto" nodecaption="人物动画效果(灰色男道士)" iconpath="Data\ChrSel.wzl" beginimg="140" endimg="152" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_7" nodename="chrmoto" nodecaption="人物动画效果(普通女战士)" iconpath="Data\ChrSel.wzl" beginimg="160" endimg="175" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_8" nodename="chrmoto" nodecaption="人物动画效果(灰色女战士)" iconpath="Data\ChrSel.wzl" beginimg="180" endimg="192" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_9" nodename="chrmoto" nodecaption="人物动画效果(普通女法师)" iconpath="Data\ChrSel.wzl" beginimg="200" endimg="215" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_10" nodename="chrmoto" nodecaption="人物动画效果(灰色女法师)" iconpath="Data\ChrSel.wzl" beginimg="220" endimg="232" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_11" nodename="chrmoto" nodecaption="人物动画效果(普通女道士)" iconpath="Data\ChrSel.wzl" beginimg="240" endimg="255" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_13_12" nodename="chrmoto" nodecaption="人物动画效果(灰色女道士)" iconpath="Data\ChrSel.wzl" beginimg="260" endimg="272" x="0" y="0" ishide="0" width="300" height="417">
+      </Node>
+    </Node>
+    <Node ID="8_14" nodename="chrmoto" nodecaption="人物选择框文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="0" ishide="0" width="300" height="417">
+      <Node ID="8_14_1" nodename="chrmoto" nodecaption="文字角色1用户名" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="100" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_2" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="200" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_3" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="300" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_4" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="400" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_5" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="500" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_6" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="600" ishide="0" width="300" height="417">
+      </Node>
+      <Node ID="8_14_7" nodename="chrmoto" nodecaption="文字" iconpath="Data\ChrSel.wzl" beginimg="120" endimg="" x="100" y="5" ishide="0" width="300" height="417">
+      </Node>
+    </Node>
+  </Node>
+  <Node ID="9" nodename="DItemBag" nodecaption="人物背包" iconpath="Data\Prguse2.wzl" beginimg="180" endimg="" x="0" y="60" ishide="-1" width="352" height="295">
+    <Node ID="9_1" nodename="DItemGrid" nodecaption="物品格子" iconpath="" beginimg="0" endimg="" x="29" y="41" ishide="0" width="286" height="162">
+    </Node>
+    <Node ID="9_2" nodename="DRefineItem" nodecaption="升级" iconpath="Data\Prguse2.wzl" beginimg="183" endimg="" x="299" y="212" ishide="0" width="32" height="32">
+    </Node>
+    <Node ID="9_3" nodename="DGold" nodecaption="金币" iconpath="Data\Prguse.wzl" beginimg="29" endimg="" x="18" y="218" ishide="0" width="36" height="21">
+    </Node>
+    <Node ID="9_4" nodename="DBGameGold" nodecaption="元宝" iconpath="Data\Prguse2.wzl" beginimg="182" endimg="" x="218" y="207" ishide="0" width="40" height="20">
+    </Node>
+    <Node ID="9_5" nodename="DCloseBag" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="371" endimg="" x="336" y="59" ishide="0" width="14" height="20">
+    </Node>
+  </Node>
+  <Node ID="10" nodename="DHeroItemBag" nodecaption="英雄背包" iconpath="Data\Prguse3.wzl" beginimg="375" endimg="" x="28" y="100" ishide="-1" width="228" height="158">
+    <Node ID="10_1" nodename="DHeroItemGrid" nodecaption="物品格子" iconpath="" beginimg="0" endimg="" x="17" y="14" ishide="0" width="180" height="64">
+    </Node>
+    <Node ID="10_2" nodename="DCloseHeroBag" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="371" endimg="" x="208" y="0" ishide="0" width="16" height="23">
+    </Node>
+  </Node>
+  <Node ID="11" nodename="DMerchantDlg" nodecaption="NPC对话框" iconpath="Data\Prguse.wzl" beginimg="384" endimg="" x="0" y="0" ishide="-1" width="416" height="176">
+    <Node ID="11_1" nodename="DMerchantDlgClose" nodecaption="关闭" iconpath="Data\Prguse.wzl" beginimg="64" endimg="" x="399" y="1" ishide="0" width="16" height="23">
+    </Node>
+  </Node>
+  <Node ID="12" nodename="DBottom" nodecaption="游戏操作栏" iconpath="" beginimg="0" endimg="" x="0" y="611" ishide="-1" width="1024" height="156">
+    <Node ID="12_1" nodename="DBelt1" nodecaption="" iconpath="" beginimg="0" endimg="" x="397" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_2" nodename="DBelt2" nodecaption="" iconpath="" beginimg="0" endimg="" x="440" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_3" nodename="DBelt3" nodecaption="" iconpath="" beginimg="0" endimg="" x="483" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_4" nodename="DBelt4" nodecaption="" iconpath="" beginimg="0" endimg="" x="526" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_5" nodename="DBelt5" nodecaption="" iconpath="" beginimg="0" endimg="" x="569" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_6" nodename="DBelt6" nodecaption="" iconpath="" beginimg="0" endimg="" x="612" y="-37" ishide="0" width="32" height="29">
+    </Node>
+    <Node ID="12_7" nodename="DBDetectBox" nodecaption="DI" iconpath="" beginimg="0" endimg="" x="1" y="55" ishide="0" width="33" height="30">
+    </Node>
+    <Node ID="12_8" nodename="DBotBelt" nodecaption="Belt" iconpath="" beginimg="0" endimg="" x="127" y="376" ishide="0" width="25" height="22">
+    </Node>
+    <Node ID="12_9" nodename="DBotMiniMap" nodecaption="显示小地图" iconpath="Data\Prguse.wzl" beginimg="130" endimg="" x="209" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_10" nodename="DBotTrade" nodecaption="物品交易" iconpath="Data\Prguse.wzl" beginimg="132" endimg="" x="239" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_11" nodename="DBotGuild" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="134" endimg="" x="269" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_12" nodename="DBotGroup" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="128" endimg="" x="299" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_13" nodename="DBotFriend" nodecaption="" iconpath="Data\Prguse3.wzl" beginimg="34" endimg="" x="329" y="8" ishide="0" width="32" height="13">
+    </Node>
+    <Node ID="12_14" nodename="DBotDare" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="1151" endimg="" x="359" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_15" nodename="DBotLevelRank" nodecaption="" iconpath="Data\Prguse3.wzl" beginimg="460" endimg="" x="389" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_16" nodename="DBotPlusAbil" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="140" endimg="" x="449" y="8" ishide="-1" width="36" height="13">
+    </Node>
+    <Node ID="12_17" nodename="DCTRANSVERREWARD" nodecaption="领取体验服奖励" iconpath="Data\Legm2.pak" beginimg="324" endimg="" x="516" y="8" ishide="-1" width="28" height="13">
+    </Node>
+    <Node ID="12_18" nodename="DBotStore" nodecaption="" iconpath="" beginimg="0" endimg="" x="419" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_19" nodename="DBAutoAttact" nodecaption="自动挂机" iconpath="Data\Legm2.pak" beginimg="59" endimg="" x="486" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_20" nodename="DBotLogout" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="136" endimg="" x="754" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_21" nodename="DBotExit" nodecaption="" iconpath="Data\Prguse.wzl" beginimg="138" endimg="" x="784" y="8" ishide="0" width="28" height="13">
+    </Node>
+    <Node ID="12_22" nodename="DButtonHP" nodecaption="HP" iconpath="" beginimg="0" endimg="" x="40" y="91" ishide="0" width="45" height="90">
+    </Node>
+    <Node ID="12_23" nodename="DButtonMP" nodecaption="MP" iconpath="" beginimg="0" endimg="" x="87" y="91" ishide="0" width="45" height="90">
+    </Node>
+    <Node ID="12_24" nodename="DBVigour" nodecaption="Vigour" iconpath="" beginimg="0" endimg="" x="62" y="91" ishide="0" width="45" height="90">
+    </Node>
+    <Node ID="12_25" nodename="DBRefuseSay" nodecaption="拒绝聊天" iconpath="Data\Prguse3.wzl" beginimg="280" endimg="" x="176" y="24" ishide="0" width="20" height="17">
+    </Node>
+    <Node ID="12_26" nodename="DBRefuseCry" nodecaption="" iconpath="Data\Prguse3.wzl" beginimg="282" endimg="" x="176" y="46" ishide="0" width="20" height="17">
+    </Node>
+    <Node ID="12_27" nodename="DBRefuseGuild" nodecaption="" iconpath="Data\Prguse3.wzl" beginimg="286" endimg="" x="176" y="90" ishide="0" width="20" height="17">
+    </Node>
+    <Node ID="12_28" nodename="DBRefuseWhisper" nodecaption="私聊信息" iconpath="Data\Prguse3.wzl" beginimg="284" endimg="" x="176" y="68" ishide="0" width="20" height="17">
+    </Node>
+    <Node ID="12_29" nodename="DBAotoSay" nodecaption="" iconpath="Data\Prguse3.wzl" beginimg="288" endimg="" x="176" y="112" ishide="0" width="20" height="17">
+    </Node>
+    <Node ID="12_30" nodename="DBCommand" nodecaption="调出命令" iconpath="Data\Prguse3.wzl" beginimg="284" endimg="" x="176" y="134" ishide="0" width="20" height="17">
+    </Node>
+  </Node>
+</Config>

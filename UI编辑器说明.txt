@@ -1,0 +1,1 @@
+下载软件，打开运行，读取目录下的CustomUIConfig.xml文件
